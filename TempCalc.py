@@ -1,4 +1,3 @@
-import re;
 import time;
 def Retry():
 	time.sleep(1)
